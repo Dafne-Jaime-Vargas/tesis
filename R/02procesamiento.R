@@ -12,7 +12,7 @@ pacman::p_load(tidyverse, #universo de paquetes para el procesamiento
                car) #recodificacion
 
 
-load("input/data/datos_originales.RData")
+load("input/data/01-datos-originales.RData")
 
 # 2. -------------------- Selección, limpieza y descriptivos ----------------------
 
@@ -21,7 +21,7 @@ datos_proc_EPS <- list(datos_dinam %>%
                                 b17, b16_a, b16_b, b13, b2_a_inicio_mes, 
                                 b2_a_inicio_anio, b2_a_termino_mes, b2_a_termino_anio,
                                 b18, b24_a, b24_c, folio_n20, starts_with("freq"), 
-                                orden, b22, b23_b, cise), 
+                                orden, b22, b23_b, CIIU_1dig_cat), 
                        datos_2020_b3 %>% 
                          dplyr::select(f1, f1_9_e_cod, f35a, f30a, folio_n20 ),
                        datos_2020_b1 %>% 
@@ -130,7 +130,7 @@ datos_proc <-datos %>% mutate_at(vars(sit_lab_act, sit_lab_fin, previ_salu, lice
                                     levels = c("Si", "No")),
          afil_sindicato = case_when(afil_sindicato == 1 ~ "Si",
                                     afil_sindicato == 2  ~ "No",
-                                    arreg_sindicato == 2 | b8 == 2 ~ "No existe sindicato",
+                                    arreg_sindicato == 2  ~ "No existe sindicato",
                                     sit_lab_fin %in% c(2, 3,4) ~ "Cesante o inactivo ",
                                     TRUE ~ NA_character_),
          hor_sem = case_when(hor_sem >= 1 & hor_sem <= 30 ~ "media jornada",
@@ -154,7 +154,7 @@ datos_proc <-datos %>% mutate_at(vars(sit_lab_act, sit_lab_fin, previ_salu, lice
   mutate_at(vars(c("previ_salud")), ~(car::recode(., recodes = "c(88, 6,9, 99) = NA"))) %>% 
   dplyr::select(cant_empleos, rel_cont, ingresos, seg_accid, coti_previ,
          cesantia, previ_salud, enf_lab, afil_sindicato, hor_sem, sexo, 
-         educacion, folio_n20, starts_with("freq"), previ_salu, sit_lab_fin) %>% 
+         educacion, edad_tramos, folio_n20, starts_with("freq"), previ_salu, sit_lab_fina, orden) %>% 
   mutate_all(~(as_factor(.)))
 
 # #Solución error de labels
@@ -178,7 +178,7 @@ f1 <- cbind(cant_empleos, rel_cont, ingresos, seg_accid, coti_previ,
 
 #guardar datos a utilizar
 
-save(f1, datos_exp, datos_proc, datos_sna, file = "output/data/datos_proc.RData")
+save(f1, datos_exp, datos_proc, datos_sna, file = "output/data/02-datos_proc.RData")
 
 
 
