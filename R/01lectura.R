@@ -42,26 +42,6 @@ asc <- dinamismo %>%
 
 # creación de frecuencias de trabajo --------------------------------------
 
-# f= asc %>% mutate(fre = if_else(b2a_SO ==1, table(folio_n20), 0))
-# 
-# ja = asc %>% group_by(folio_n20)  %>% 
-#   mutate_if(var(freq), funs(where(b2a_SO==1), length(which(b2a_SO))))
-# 
-# asdci <- asc %>%
-#   mutate(freq_traba = sapply()) %>%
-#   dplyr::select(freq_traba, situa_lab, freq, folio_n20, orden)
-# 
-# ke = asc %>% mutate(ja =case_when(b2a_SO == 1 ~ sapply(folio_n20, n)))
-# 
-# ke = asc %>% mutate(ja =case_when(b2a_SO == 1 ~ table(.)))
-# 
-# freq <- sapply(data_table, 
-#                function(x) table(factor(x, levels = lvls, 
-#                                         ordered = TRUE)))
-# asc %>%
-#   group_by(b2a_SO==1) %>%
-#   summarise(n = n()) 
-
 asc_frq <-asc %>% group_by(folio_n20) %>%
   summarize(freq_trab = sum(b2a_SO==1), 
             freq_cesant = sum(b2a_SO==2),
@@ -138,7 +118,7 @@ datos_dinam  <- list(datos_2020_b2,
 #                   rename(folio_n20 = folio_n20...48 )
 
 # guardar datos -----------------------------------------------------------
-save(datos_dinam , datos_exp, datos_2020_b1, datos_2020_b2, datos_2020_b3, datos_2020_b4, file = "input/data/datos_originales.RData")
+save(datos_dinam , datos_exp, datos_2020_b1, datos_2020_b2, datos_2020_b3, datos_2020_b4, file = "input/data/01-datos-originales.RData")
 
 
 
