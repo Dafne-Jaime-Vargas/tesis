@@ -87,17 +87,17 @@ datos_proc <-datos %>% mutate_at(vars(sit_lab_act, sit_lab_fin, previ_salu, lice
                               TRUE ~ NA_character_),
          ingresos_imp = case_when(sit_lab_fin %in% c(2, 3,4) ~ "Cesante o inactivo",
                                   ingresos_tramo %in% c(1,2,3,4) |is.na(ingresos) ~ "menos del sueldo min",
-                                  ingresos_tramo %in% c(5) | is.na(ingresos) ~ "1 sueldo min", #337000
-                                  ingresos_tramo %in% c(6,7) | is.na(ingresos) ~ "2 sueldos min", #674000
-                                  ingresos_tramo %in% c(8,9,10) | is.na(ingresos) ~ "3 sueldos min", # 1.011.000 aprox a 1
-                                  ingresos_tramo %in% c(11,12) | is.na(ingresos) ~ "mas de tres sueldos min",
+                                  ingresos_tramo %in% c(5) | is.na(ingresos) ~ "1 sueldo min", #279.930
+                                  ingresos_tramo %in% c(6,7) | is.na(ingresos) ~ "2 sueldos min", #559.860
+                                  ingresos_tramo %in% c(8,9,10) | is.na(ingresos) ~ "3 sueldos min", # 839.790 aprox a 1
+                                  ingresos_tramo %in% c(11,12) | is.na(ingresos) ~ "mas de tres sueldos min", #1.119.720
                                   TRUE ~ NA_character_),
          ingresos = case_when(sit_lab_fin %in% c(2, 3,4) ~ "Cesante o inactivo",
                               ingresos >=  20000 & ingresos <= 279930 | ingresos_imp== "menos del sueldo min" ~ "menos del sueldo min", #279.930
-                              ingresos >= 279931 & ingresos <= 300000 | ingresos_imp == "1 sueldo min" ~ "hasta un sueldo min",
-                              ingresos >= 300001 & ingresos  <= 559860 | ingresos_imp== "2 sueldos min" ~ "hasta dos sueldos min",
-                              ingresos >= 559861 & ingresos  <= 839790 | ingresos_imp== "3 sueldos min" ~ "hasta tres sueldos min",
-                              ingresos >= 839791  | ingresos_imp== "mas de tres sueldos min" ~ "mas de tres sueldos min",
+                              ingresos >= 279931 & ingresos <= 301000 | ingresos_imp == "1 sueldo min" ~ "hasta un sueldo min",
+                              ingresos >= 301001 & ingresos  <= 560000 | ingresos_imp== "2 sueldos min" ~ "hasta dos sueldos min",
+                              ingresos >= 560001 & ingresos  <= 840000 | ingresos_imp== "3 sueldos min" ~ "hasta tres sueldos min",
+                              ingresos >= 840001  | ingresos_imp== "mas de tres sueldos min" ~ "mas de tres sueldos min",
                               TRUE ~ NA_character_),
          seg_accid = case_when(seg_accid %in% c(1, 2, 4, 3) ~ "Si",
                                seg_accid == 5  ~ "No",
