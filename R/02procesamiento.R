@@ -66,7 +66,7 @@ datos_proc <-datos %>% mutate_at(vars(sit_lab_act, sit_lab_fin, previ_salu, lice
                                   freq_trab %in% c(5, 6, 7, 8)~"5 a 8 empleos",
                                   freq_trab %in% c(9, 10,11,12,13,14,15,16)~"9 a 16 empleos",
                                   freq_trab == 0 ~ "0 empleos en 4 años",
-                                  TRUE ~ NA_character_) %>% 
+                                  TRUE ~ NA_character_) ,
          cant_desempleo = case_when(freq_cesant %in% c(1)~ "1 desempleo en 4 años",
                                     freq_cesant %in% c(2, 3, 4) ~ "2 a 4 desempleos",
                                     freq_cesant %in% c(5, 6, 7, 8) ~"5 a 8 desempleos",
@@ -175,6 +175,14 @@ source("R/02etiquetado.R")
 
 f1 <- cbind(cant_empleos, rel_cont, ingresos, seg_accid, coti_previ,
             cesantia, previ_salud, enf_lab, afil_sindicato, hor_sem)~1
+
+#unión de datos con variables a utilizar en el análisis descriptivo
+
+datos_unidos <- list(datos_sna, datos_2020_b2 %>% select(CIIU_1dig_cat, CIUO_08_CL_1dig, cise, orden, folio_n20)) %>%  
+  Reduce(function(x,y) merge(x,y, by = c("folio_n20", "orden"), all.x = T), . )
+
+datos_sna <- list(datos_unidos, datos_exp) %>%  # ver si incorporar cise acá
+  Reduce(function(x,y) merge(x,y, by = c("folio_n20"), all.x = T), . )
 
 #guardar datos a utilizar
 
