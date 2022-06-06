@@ -102,7 +102,7 @@ tabla_edad <- objeto_encuesta %>%
   select(1,2,5,8,3,6,9,4,7,10)
 
 tabla_educacion <- objeto_encuesta %>% 
-  group_by(educacion,objeto_encuesta$variables$`M7_or$predclass`) %>% 
+  group_by(educacion,objeto_encuesta$variables$`M6_or$predclass`) %>% 
   summarise(prop = survey_prop(vartype = "ci", level = 0.95, na.rm = T),
             total = survey_total(vartype = "ci", level = 0.95, na.rm = T)) %>% 
   mutate(prop_low = round(prop_low*100, digits = 1),
