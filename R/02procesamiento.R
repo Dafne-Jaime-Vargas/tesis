@@ -56,7 +56,7 @@ datos <- datos_proc_EPS %>% rename(sexo=a8,
 
 # recodificacion ----------------------------------------------------------
 
-datos_proc <-datos %>% mutate_at(vars(sit_lab_act, sit_lab_fin, previ_salu, licencia_med, ingresos_tramo, sexo, coti_previ), funs(as.numeric(.))) %>% 
+datos_proc <-datos %>% mutate_at(vars(sit_lab_act, sit_lab_fin, previ_salu, licencia_med, ingresos_tramo, sexo, coti_previ), funs(as.numeric(.))) %>%
   mutate(sit_lab_fina = car::recode(.$sit_lab_fin, recodes = c("1= 'Trabajando';
                             c(2) = 'Cesante';
                             c(3,4) = 'Inactivo'"), as.factor = T, 
