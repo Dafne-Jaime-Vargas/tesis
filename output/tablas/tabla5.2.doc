@@ -1,0 +1,172 @@
+<table style="border-collapse:collapse; border:none;">
+<caption style="font-weight: bold; text-align:left;">Tabla 4.
+         Proporciones por clase de precariedad y actividad</caption>
+ <tr>
+ <th style="border-top:double; text-align:center; font-style:italic; font-weight:normal; border-bottom:1px solid;" rowspan="2">variables$`M6_or$predclass`</th>
+ <th style="border-top:double; text-align:center; font-style:italic; font-weight:normal;" colspan="22">VAR_COD:<br>Codificación<br>variable b9_d con<br>CIIU Rev.4 a 1<br>dígito con<br>categorías</th>
+ <th style="border-top:double; text-align:center; font-style:italic; font-weight:normal; font-weight:bolder; font-style:italic; border-bottom:1px solid; " rowspan="2">Total</th>
+ </tr>
+ 
+<tr>
+ <td style="border-bottom:1px solid; text-align:center; padding:0.2cm;">A. Agricultura,<br>ganadería,<br>silvicultura y pesca</td>
+ <td style="border-bottom:1px solid; text-align:center; padding:0.2cm;">B. Explotación de<br>minas y canteras</td>
+ <td style="border-bottom:1px solid; text-align:center; padding:0.2cm;">C. Industrias<br>manufactureras</td>
+ <td style="border-bottom:1px solid; text-align:center; padding:0.2cm;">D. Suministro de<br>electricidad, gas,<br>vapor y aire<br>acondicionado</td>
+ <td style="border-bottom:1px solid; text-align:center; padding:0.2cm;">E. Suministro de<br>agua; evacuación de<br>aguas residuales,<br>gestión de desechos<br>y descontaminación</td>
+ <td style="border-bottom:1px solid; text-align:center; padding:0.2cm;">F. Construcción</td>
+ <td style="border-bottom:1px solid; text-align:center; padding:0.2cm;">G. Comercio al por<br>mayor y al por<br>menor; reparación de<br>vehículos<br>automotores y<br>motocicletas</td>
+ <td style="border-bottom:1px solid; text-align:center; padding:0.2cm;">H. Transporte y<br>almacenamiento</td>
+ <td style="border-bottom:1px solid; text-align:center; padding:0.2cm;">I. Actividades de<br>alojamiento y<br>servicio de comidas</td>
+ <td style="border-bottom:1px solid; text-align:center; padding:0.2cm;">J. Información y<br>comunicaciones</td>
+ <td style="border-bottom:1px solid; text-align:center; padding:0.2cm;">K. Actividades<br>financieras y de<br>seguros</td>
+ <td style="border-bottom:1px solid; text-align:center; padding:0.2cm;">L. Actividades<br>inmobiliarias</td>
+ <td style="border-bottom:1px solid; text-align:center; padding:0.2cm;">M. Actividades<br>profesionales,<br>científicas y<br>técnicas</td>
+ <td style="border-bottom:1px solid; text-align:center; padding:0.2cm;">N. Actividades de<br>servicios<br>administrativos y de<br>apoyo</td>
+ <td style="border-bottom:1px solid; text-align:center; padding:0.2cm;">O. Administración<br>pública y defensa;<br>planes de seguridad<br>social de afiliación<br>obligatoria</td>
+ <td style="border-bottom:1px solid; text-align:center; padding:0.2cm;">P. Enseñanza</td>
+ <td style="border-bottom:1px solid; text-align:center; padding:0.2cm;">Q. Actividades de<br>atención de la salud<br>humana y de<br>asistencia social</td>
+ <td style="border-bottom:1px solid; text-align:center; padding:0.2cm;">R. Actividades<br>artísticas, de<br>entretenimiento y<br>recreativas</td>
+ <td style="border-bottom:1px solid; text-align:center; padding:0.2cm;">S. Otras actividades<br>de servicios</td>
+ <td style="border-bottom:1px solid; text-align:center; padding:0.2cm;">T. Actividades de<br>los hogares como<br>empleadores;<br>actividades no<br>diferenciadas de los<br>hogares como<br>productores de<br>bienes y servicios<br>para uso propio</td>
+ <td style="border-bottom:1px solid; text-align:center; padding:0.2cm;">U. Actividades de<br>organizaciones y<br>órganos<br>extraterritoriales</td>
+ <td style="border-bottom:1px solid; text-align:center; padding:0.2cm;">Información<br>insuficiente para<br>clasificar</td>
+ </tr>
+ 
+<tr> 
+<td style="padding:0.2cm;  text-align:left; vertical-align:middle;">1</td>
+<td style="padding:0.2cm; text-align:center; "><span style="color:#333399;">4.2&nbsp;&#37;</span><br><span style="color:#339933;">21&nbsp;&#37;</span></td>
+<td style="padding:0.2cm; text-align:center; "><span style="color:#333399;">2.9&nbsp;&#37;</span><br><span style="color:#339933;">34.6&nbsp;&#37;</span></td>
+<td style="padding:0.2cm; text-align:center; "><span style="color:#333399;">12.5&nbsp;&#37;</span><br><span style="color:#339933;">32.2&nbsp;&#37;</span></td>
+<td style="padding:0.2cm; text-align:center; "><span style="color:#333399;">0.4&nbsp;&#37;</span><br><span style="color:#339933;">29.1&nbsp;&#37;</span></td>
+<td style="padding:0.2cm; text-align:center; "><span style="color:#333399;">0.6&nbsp;&#37;</span><br><span style="color:#339933;">46.4&nbsp;&#37;</span></td>
+<td style="padding:0.2cm; text-align:center; "><span style="color:#333399;">8.5&nbsp;&#37;</span><br><span style="color:#339933;">22.7&nbsp;&#37;</span></td>
+<td style="padding:0.2cm; text-align:center; "><span style="color:#333399;">14.7&nbsp;&#37;</span><br><span style="color:#339933;">36.4&nbsp;&#37;</span></td>
+<td style="padding:0.2cm; text-align:center; "><span style="color:#333399;">7.6&nbsp;&#37;</span><br><span style="color:#339933;">43.4&nbsp;&#37;</span></td>
+<td style="padding:0.2cm; text-align:center; "><span style="color:#333399;">4.4&nbsp;&#37;</span><br><span style="color:#339933;">34.4&nbsp;&#37;</span></td>
+<td style="padding:0.2cm; text-align:center; "><span style="color:#333399;">1.9&nbsp;&#37;</span><br><span style="color:#339933;">28.6&nbsp;&#37;</span></td>
+<td style="padding:0.2cm; text-align:center; "><span style="color:#333399;">2.7&nbsp;&#37;</span><br><span style="color:#339933;">41.5&nbsp;&#37;</span></td>
+<td style="padding:0.2cm; text-align:center; "><span style="color:#333399;">1.5&nbsp;&#37;</span><br><span style="color:#339933;">47.1&nbsp;&#37;</span></td>
+<td style="padding:0.2cm; text-align:center; "><span style="color:#333399;">1.2&nbsp;&#37;</span><br><span style="color:#339933;">19.6&nbsp;&#37;</span></td>
+<td style="padding:0.2cm; text-align:center; "><span style="color:#333399;">3.8&nbsp;&#37;</span><br><span style="color:#339933;">37.5&nbsp;&#37;</span></td>
+<td style="padding:0.2cm; text-align:center; "><span style="color:#333399;">7.2&nbsp;&#37;</span><br><span style="color:#339933;">49.6&nbsp;&#37;</span></td>
+<td style="padding:0.2cm; text-align:center; "><span style="color:#333399;">11.7&nbsp;&#37;</span><br><span style="color:#339933;">47.2&nbsp;&#37;</span></td>
+<td style="padding:0.2cm; text-align:center; "><span style="color:#333399;">5.9&nbsp;&#37;</span><br><span style="color:#339933;">36.9&nbsp;&#37;</span></td>
+<td style="padding:0.2cm; text-align:center; "><span style="color:#333399;">1&nbsp;&#37;</span><br><span style="color:#339933;">40.7&nbsp;&#37;</span></td>
+<td style="padding:0.2cm; text-align:center; "><span style="color:#333399;">1.6&nbsp;&#37;</span><br><span style="color:#339933;">49.8&nbsp;&#37;</span></td>
+<td style="padding:0.2cm; text-align:center; "><span style="color:#333399;">0.5&nbsp;&#37;</span><br><span style="color:#339933;">19.1&nbsp;&#37;</span></td>
+<td style="padding:0.2cm; text-align:center; "><span style="color:#333399;">0&nbsp;&#37;</span><br><span style="color:#339933;">0&nbsp;&#37;</span></td>
+<td style="padding:0.2cm; text-align:center; "><span style="color:#333399;">5.3&nbsp;&#37;</span><br><span style="color:#339933;">45.9&nbsp;&#37;</span></td>
+<td style="padding:0.2cm; text-align:center;  "><span style="color:#333399;">100&nbsp;&#37;</span><br><span style="color:#339933;">35&nbsp;&#37;</span></td> 
+</tr>
+ 
+<tr> 
+<td style="padding:0.2cm;  text-align:left; vertical-align:middle;">3</td>
+<td style="padding:0.2cm; text-align:center; "><span style="color:#333399;">9.6&nbsp;&#37;</span><br><span style="color:#339933;">55.1&nbsp;&#37;</span></td>
+<td style="padding:0.2cm; text-align:center; "><span style="color:#333399;">2&nbsp;&#37;</span><br><span style="color:#339933;">27.4&nbsp;&#37;</span></td>
+<td style="padding:0.2cm; text-align:center; "><span style="color:#333399;">15.9&nbsp;&#37;</span><br><span style="color:#339933;">46.3&nbsp;&#37;</span></td>
+<td style="padding:0.2cm; text-align:center; "><span style="color:#333399;">0.4&nbsp;&#37;</span><br><span style="color:#339933;">40.5&nbsp;&#37;</span></td>
+<td style="padding:0.2cm; text-align:center; "><span style="color:#333399;">0.3&nbsp;&#37;</span><br><span style="color:#339933;">30.5&nbsp;&#37;</span></td>
+<td style="padding:0.2cm; text-align:center; "><span style="color:#333399;">19.8&nbsp;&#37;</span><br><span style="color:#339933;">60.3&nbsp;&#37;</span></td>
+<td style="padding:0.2cm; text-align:center; "><span style="color:#333399;">15.3&nbsp;&#37;</span><br><span style="color:#339933;">43&nbsp;&#37;</span></td>
+<td style="padding:0.2cm; text-align:center; "><span style="color:#333399;">5.9&nbsp;&#37;</span><br><span style="color:#339933;">38.7&nbsp;&#37;</span></td>
+<td style="padding:0.2cm; text-align:center; "><span style="color:#333399;">4.9&nbsp;&#37;</span><br><span style="color:#339933;">42.5&nbsp;&#37;</span></td>
+<td style="padding:0.2cm; text-align:center; "><span style="color:#333399;">1.5&nbsp;&#37;</span><br><span style="color:#339933;">25.1&nbsp;&#37;</span></td>
+<td style="padding:0.2cm; text-align:center; "><span style="color:#333399;">1&nbsp;&#37;</span><br><span style="color:#339933;">17.1&nbsp;&#37;</span></td>
+<td style="padding:0.2cm; text-align:center; "><span style="color:#333399;">1.1&nbsp;&#37;</span><br><span style="color:#339933;">38&nbsp;&#37;</span></td>
+<td style="padding:0.2cm; text-align:center; "><span style="color:#333399;">1.8&nbsp;&#37;</span><br><span style="color:#339933;">31.5&nbsp;&#37;</span></td>
+<td style="padding:0.2cm; text-align:center; "><span style="color:#333399;">2.3&nbsp;&#37;</span><br><span style="color:#339933;">26&nbsp;&#37;</span></td>
+<td style="padding:0.2cm; text-align:center; "><span style="color:#333399;">2.3&nbsp;&#37;</span><br><span style="color:#339933;">17.7&nbsp;&#37;</span></td>
+<td style="padding:0.2cm; text-align:center; "><span style="color:#333399;">4.5&nbsp;&#37;</span><br><span style="color:#339933;">20.4&nbsp;&#37;</span></td>
+<td style="padding:0.2cm; text-align:center; "><span style="color:#333399;">4.7&nbsp;&#37;</span><br><span style="color:#339933;">33.3&nbsp;&#37;</span></td>
+<td style="padding:0.2cm; text-align:center; "><span style="color:#333399;">0.7&nbsp;&#37;</span><br><span style="color:#339933;">33.9&nbsp;&#37;</span></td>
+<td style="padding:0.2cm; text-align:center; "><span style="color:#333399;">0.8&nbsp;&#37;</span><br><span style="color:#339933;">26.4&nbsp;&#37;</span></td>
+<td style="padding:0.2cm; text-align:center; "><span style="color:#333399;">0.5&nbsp;&#37;</span><br><span style="color:#339933;">20.3&nbsp;&#37;</span></td>
+<td style="padding:0.2cm; text-align:center; "><span style="color:#333399;">0&nbsp;&#37;</span><br><span style="color:#339933;">100&nbsp;&#37;</span></td>
+<td style="padding:0.2cm; text-align:center; "><span style="color:#333399;">4.8&nbsp;&#37;</span><br><span style="color:#339933;">47.6&nbsp;&#37;</span></td>
+<td style="padding:0.2cm; text-align:center;  "><span style="color:#333399;">100&nbsp;&#37;</span><br><span style="color:#339933;">39.7&nbsp;&#37;</span></td> 
+</tr>
+ 
+<tr> 
+<td style="padding:0.2cm;  text-align:left; vertical-align:middle;">4</td>
+<td style="padding:0.2cm; text-align:center; "><span style="color:#333399;">2.3&nbsp;&#37;</span><br><span style="color:#339933;">5.1&nbsp;&#37;</span></td>
+<td style="padding:0.2cm; text-align:center; "><span style="color:#333399;">7.1&nbsp;&#37;</span><br><span style="color:#339933;">37.6&nbsp;&#37;</span></td>
+<td style="padding:0.2cm; text-align:center; "><span style="color:#333399;">15.1&nbsp;&#37;</span><br><span style="color:#339933;">17.3&nbsp;&#37;</span></td>
+<td style="padding:0.2cm; text-align:center; "><span style="color:#333399;">0.8&nbsp;&#37;</span><br><span style="color:#339933;">30.4&nbsp;&#37;</span></td>
+<td style="padding:0.2cm; text-align:center; "><span style="color:#333399;">0.3&nbsp;&#37;</span><br><span style="color:#339933;">9.4&nbsp;&#37;</span></td>
+<td style="padding:0.2cm; text-align:center; "><span style="color:#333399;">7.8&nbsp;&#37;</span><br><span style="color:#339933;">9.3&nbsp;&#37;</span></td>
+<td style="padding:0.2cm; text-align:center; "><span style="color:#333399;">8.8&nbsp;&#37;</span><br><span style="color:#339933;">9.6&nbsp;&#37;</span></td>
+<td style="padding:0.2cm; text-align:center; "><span style="color:#333399;">4.5&nbsp;&#37;</span><br><span style="color:#339933;">11.4&nbsp;&#37;</span></td>
+<td style="padding:0.2cm; text-align:center; "><span style="color:#333399;">1&nbsp;&#37;</span><br><span style="color:#339933;">3.4&nbsp;&#37;</span></td>
+<td style="padding:0.2cm; text-align:center; "><span style="color:#333399;">6.2&nbsp;&#37;</span><br><span style="color:#339933;">41.2&nbsp;&#37;</span></td>
+<td style="padding:0.2cm; text-align:center; "><span style="color:#333399;">5.5&nbsp;&#37;</span><br><span style="color:#339933;">37.3&nbsp;&#37;</span></td>
+<td style="padding:0.2cm; text-align:center; "><span style="color:#333399;">0.1&nbsp;&#37;</span><br><span style="color:#339933;">1.5&nbsp;&#37;</span></td>
+<td style="padding:0.2cm; text-align:center; "><span style="color:#333399;">2.6&nbsp;&#37;</span><br><span style="color:#339933;">18.4&nbsp;&#37;</span></td>
+<td style="padding:0.2cm; text-align:center; "><span style="color:#333399;">7.6&nbsp;&#37;</span><br><span style="color:#339933;">33&nbsp;&#37;</span></td>
+<td style="padding:0.2cm; text-align:center; "><span style="color:#333399;">7.1&nbsp;&#37;</span><br><span style="color:#339933;">21.9&nbsp;&#37;</span></td>
+<td style="padding:0.2cm; text-align:center; "><span style="color:#333399;">13.6&nbsp;&#37;</span><br><span style="color:#339933;">24.3&nbsp;&#37;</span></td>
+<td style="padding:0.2cm; text-align:center; "><span style="color:#333399;">8.6&nbsp;&#37;</span><br><span style="color:#339933;">24.1&nbsp;&#37;</span></td>
+<td style="padding:0.2cm; text-align:center; "><span style="color:#333399;">0.2&nbsp;&#37;</span><br><span style="color:#339933;">3&nbsp;&#37;</span></td>
+<td style="padding:0.2cm; text-align:center; "><span style="color:#333399;">0.1&nbsp;&#37;</span><br><span style="color:#339933;">1.5&nbsp;&#37;</span></td>
+<td style="padding:0.2cm; text-align:center; "><span style="color:#333399;">0&nbsp;&#37;</span><br><span style="color:#339933;">0&nbsp;&#37;</span></td>
+<td style="padding:0.2cm; text-align:center; "><span style="color:#333399;">0&nbsp;&#37;</span><br><span style="color:#339933;">0&nbsp;&#37;</span></td>
+<td style="padding:0.2cm; text-align:center; "><span style="color:#333399;">0.7&nbsp;&#37;</span><br><span style="color:#339933;">2.8&nbsp;&#37;</span></td>
+<td style="padding:0.2cm; text-align:center;  "><span style="color:#333399;">100&nbsp;&#37;</span><br><span style="color:#339933;">15.5&nbsp;&#37;</span></td> 
+</tr>
+ 
+<tr> 
+<td style="padding:0.2cm;  text-align:left; vertical-align:middle;">5</td>
+<td style="padding:0.2cm; text-align:center; "><span style="color:#333399;">13.4&nbsp;&#37;</span><br><span style="color:#339933;">18.8&nbsp;&#37;</span></td>
+<td style="padding:0.2cm; text-align:center; "><span style="color:#333399;">0.1&nbsp;&#37;</span><br><span style="color:#339933;">0.4&nbsp;&#37;</span></td>
+<td style="padding:0.2cm; text-align:center; "><span style="color:#333399;">5.9&nbsp;&#37;</span><br><span style="color:#339933;">4.2&nbsp;&#37;</span></td>
+<td style="padding:0.2cm; text-align:center; "><span style="color:#333399;">0&nbsp;&#37;</span><br><span style="color:#339933;">0&nbsp;&#37;</span></td>
+<td style="padding:0.2cm; text-align:center; "><span style="color:#333399;">0.6&nbsp;&#37;</span><br><span style="color:#339933;">13.6&nbsp;&#37;</span></td>
+<td style="padding:0.2cm; text-align:center; "><span style="color:#333399;">10.2&nbsp;&#37;</span><br><span style="color:#339933;">7.6&nbsp;&#37;</span></td>
+<td style="padding:0.2cm; text-align:center; "><span style="color:#333399;">16.1&nbsp;&#37;</span><br><span style="color:#339933;">11&nbsp;&#37;</span></td>
+<td style="padding:0.2cm; text-align:center; "><span style="color:#333399;">4&nbsp;&#37;</span><br><span style="color:#339933;">6.4&nbsp;&#37;</span></td>
+<td style="padding:0.2cm; text-align:center; "><span style="color:#333399;">9.2&nbsp;&#37;</span><br><span style="color:#339933;">19.8&nbsp;&#37;</span></td>
+<td style="padding:0.2cm; text-align:center; "><span style="color:#333399;">1.2&nbsp;&#37;</span><br><span style="color:#339933;">5.1&nbsp;&#37;</span></td>
+<td style="padding:0.2cm; text-align:center; "><span style="color:#333399;">1&nbsp;&#37;</span><br><span style="color:#339933;">4.1&nbsp;&#37;</span></td>
+<td style="padding:0.2cm; text-align:center; "><span style="color:#333399;">1.5&nbsp;&#37;</span><br><span style="color:#339933;">13.3&nbsp;&#37;</span></td>
+<td style="padding:0.2cm; text-align:center; "><span style="color:#333399;">7&nbsp;&#37;</span><br><span style="color:#339933;">30.6&nbsp;&#37;</span></td>
+<td style="padding:0.2cm; text-align:center; "><span style="color:#333399;">1.3&nbsp;&#37;</span><br><span style="color:#339933;">3.4&nbsp;&#37;</span></td>
+<td style="padding:0.2cm; text-align:center; "><span style="color:#333399;">5.7&nbsp;&#37;</span><br><span style="color:#339933;">10.8&nbsp;&#37;</span></td>
+<td style="padding:0.2cm; text-align:center; "><span style="color:#333399;">7.1&nbsp;&#37;</span><br><span style="color:#339933;">8&nbsp;&#37;</span></td>
+<td style="padding:0.2cm; text-align:center; "><span style="color:#333399;">3.3&nbsp;&#37;</span><br><span style="color:#339933;">5.7&nbsp;&#37;</span></td>
+<td style="padding:0.2cm; text-align:center; "><span style="color:#333399;">2&nbsp;&#37;</span><br><span style="color:#339933;">22.5&nbsp;&#37;</span></td>
+<td style="padding:0.2cm; text-align:center; "><span style="color:#333399;">2.6&nbsp;&#37;</span><br><span style="color:#339933;">22.3&nbsp;&#37;</span></td>
+<td style="padding:0.2cm; text-align:center; "><span style="color:#333399;">6.3&nbsp;&#37;</span><br><span style="color:#339933;">60.6&nbsp;&#37;</span></td>
+<td style="padding:0.2cm; text-align:center; "><span style="color:#333399;">0&nbsp;&#37;</span><br><span style="color:#339933;">0&nbsp;&#37;</span></td>
+<td style="padding:0.2cm; text-align:center; "><span style="color:#333399;">1.5&nbsp;&#37;</span><br><span style="color:#339933;">3.6&nbsp;&#37;</span></td>
+<td style="padding:0.2cm; text-align:center;  "><span style="color:#333399;">100&nbsp;&#37;</span><br><span style="color:#339933;">9.7&nbsp;&#37;</span></td> 
+</tr>
+ 
+<tr> 
+<td style="padding:0.2cm;  border-bottom:double; font-weight:bolder; font-style:italic; text-align:left; vertical-align:middle;">Total</td>
+<td style="padding:0.2cm; text-align:center;   border-bottom:double;"><span style="color:#333399;">6.9&nbsp;&#37;</span><br><span style="color:#339933;">100&nbsp;&#37;</span></td>
+<td style="padding:0.2cm; text-align:center;   border-bottom:double;"><span style="color:#333399;">2.9&nbsp;&#37;</span><br><span style="color:#339933;">100&nbsp;&#37;</span></td>
+<td style="padding:0.2cm; text-align:center;   border-bottom:double;"><span style="color:#333399;">13.6&nbsp;&#37;</span><br><span style="color:#339933;">100&nbsp;&#37;</span></td>
+<td style="padding:0.2cm; text-align:center;   border-bottom:double;"><span style="color:#333399;">0.4&nbsp;&#37;</span><br><span style="color:#339933;">100&nbsp;&#37;</span></td>
+<td style="padding:0.2cm; text-align:center;   border-bottom:double;"><span style="color:#333399;">0.4&nbsp;&#37;</span><br><span style="color:#339933;">100&nbsp;&#37;</span></td>
+<td style="padding:0.2cm; text-align:center;   border-bottom:double;"><span style="color:#333399;">13&nbsp;&#37;</span><br><span style="color:#339933;">100&nbsp;&#37;</span></td>
+<td style="padding:0.2cm; text-align:center;   border-bottom:double;"><span style="color:#333399;">14.2&nbsp;&#37;</span><br><span style="color:#339933;">100&nbsp;&#37;</span></td>
+<td style="padding:0.2cm; text-align:center;   border-bottom:double;"><span style="color:#333399;">6.1&nbsp;&#37;</span><br><span style="color:#339933;">100&nbsp;&#37;</span></td>
+<td style="padding:0.2cm; text-align:center;   border-bottom:double;"><span style="color:#333399;">4.5&nbsp;&#37;</span><br><span style="color:#339933;">100&nbsp;&#37;</span></td>
+<td style="padding:0.2cm; text-align:center;   border-bottom:double;"><span style="color:#333399;">2.3&nbsp;&#37;</span><br><span style="color:#339933;">100&nbsp;&#37;</span></td>
+<td style="padding:0.2cm; text-align:center;   border-bottom:double;"><span style="color:#333399;">2.3&nbsp;&#37;</span><br><span style="color:#339933;">100&nbsp;&#37;</span></td>
+<td style="padding:0.2cm; text-align:center;   border-bottom:double;"><span style="color:#333399;">1.1&nbsp;&#37;</span><br><span style="color:#339933;">100&nbsp;&#37;</span></td>
+<td style="padding:0.2cm; text-align:center;   border-bottom:double;"><span style="color:#333399;">2.2&nbsp;&#37;</span><br><span style="color:#339933;">100&nbsp;&#37;</span></td>
+<td style="padding:0.2cm; text-align:center;   border-bottom:double;"><span style="color:#333399;">3.6&nbsp;&#37;</span><br><span style="color:#339933;">100&nbsp;&#37;</span></td>
+<td style="padding:0.2cm; text-align:center;   border-bottom:double;"><span style="color:#333399;">5.1&nbsp;&#37;</span><br><span style="color:#339933;">100&nbsp;&#37;</span></td>
+<td style="padding:0.2cm; text-align:center;   border-bottom:double;"><span style="color:#333399;">8.7&nbsp;&#37;</span><br><span style="color:#339933;">100&nbsp;&#37;</span></td>
+<td style="padding:0.2cm; text-align:center;   border-bottom:double;"><span style="color:#333399;">5.6&nbsp;&#37;</span><br><span style="color:#339933;">100&nbsp;&#37;</span></td>
+<td style="padding:0.2cm; text-align:center;   border-bottom:double;"><span style="color:#333399;">0.8&nbsp;&#37;</span><br><span style="color:#339933;">100&nbsp;&#37;</span></td>
+<td style="padding:0.2cm; text-align:center;   border-bottom:double;"><span style="color:#333399;">1.2&nbsp;&#37;</span><br><span style="color:#339933;">100&nbsp;&#37;</span></td>
+<td style="padding:0.2cm; text-align:center;   border-bottom:double;"><span style="color:#333399;">1&nbsp;&#37;</span><br><span style="color:#339933;">100&nbsp;&#37;</span></td>
+<td style="padding:0.2cm; text-align:center;   border-bottom:double;"><span style="color:#333399;">0&nbsp;&#37;</span><br><span style="color:#339933;">100&nbsp;&#37;</span></td>
+<td style="padding:0.2cm; text-align:center;   border-bottom:double;"><span style="color:#333399;">4&nbsp;&#37;</span><br><span style="color:#339933;">100&nbsp;&#37;</span></td>
+<td style="padding:0.2cm; text-align:center;   border-bottom:double;"><span style="color:#333399;">100&nbsp;&#37;</span><br><span style="color:#339933;">100&nbsp;&#37;</span></td> 
+</tr>
+<td style="text-align:right; font-size:0.9em; font-style:italic; padding:0.2cm;" colspan="24">&chi;<sup>2</sup>=1738368.752 &middot; df=63 &middot; Cramer's V=0.259 &middot; p=0.000</td> 
+</tr>
+ 
+</table>

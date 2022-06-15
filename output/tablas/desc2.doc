@@ -1,0 +1,35 @@
+<table style="border-collapse:collapse; border:none;">
+<caption>Data frame: descriptivos_desc</caption>
+<tr>
+<th style="border-bottom:double; font-style:italic; font-weight:normal; padding:0.2cm; text-align:left; vertical-align:top;">Name</th><th style="border-bottom:double; font-style:italic; font-weight:normal; padding:0.2cm; text-align:left; vertical-align:top;">Label</th><th style="border-bottom:double; font-style:italic; font-weight:normal; padding:0.2cm; text-align:left; vertical-align:top;">Value Labels</th><th style="border-bottom:double; font-style:italic; font-weight:normal; padding:0.2cm; text-align:left; vertical-align:top;">Freq.</th><th style="border-bottom:double; font-style:italic; font-weight:normal; padding:0.2cm; text-align:left; vertical-align:top;">%</th>
+</tr>
+<tr>
+<td style="padding:0.2cm; text-align:left; vertical-align:top;">sexo</td>
+<td style="padding:0.2cm; text-align:left; vertical-align:top;"></td>
+<td style="padding:0.2cm; text-align:left; vertical-align:top;">Hombre<br>Mujer</td>
+<td style="padding:0.2cm; text-align:left; vertical-align:top;">4588<br>6158</td>
+<td style="padding:0.2cm; text-align:left; vertical-align:top;">42.69<br>57.31</td>
+</tr>
+<tr>
+<td style="padding:0.2cm; text-align:left; vertical-align:top; background-color:#eeeeee">educacion</td>
+<td style="padding:0.2cm; text-align:left; vertical-align:top; background-color:#eeeeee">Nivel educacional</td>
+<td style="padding:0.2cm; text-align:left; vertical-align:top; background-color:#eeeeee">Básica<br>Media<br>Postgrado<br>Sin estudios<br>Superior</td>
+<td style="padding:0.2cm; text-align:left; vertical-align:top; background-color:#eeeeee">2236<br>4756<br>167<br>95<br>3492</td>
+<td style="padding:0.2cm; text-align:left; vertical-align:top; background-color:#eeeeee">20.81<br>44.26<br>1.55<br>0.88<br>32.50</td>
+</tr>
+<tr>
+<td style="padding:0.2cm; text-align:left; vertical-align:top;">edad_tramos</td>
+<td style="padding:0.2cm; text-align:left; vertical-align:top;">Tramos etarios</td>
+<td style="padding:0.2cm; text-align:left; vertical-align:top;">Adulto<br>Adulto mayor<br>Joven</td>
+<td style="padding:0.2cm; text-align:left; vertical-align:top;">4796<br>2701<br>3249</td>
+<td style="padding:0.2cm; text-align:left; vertical-align:top;">44.63<br>25.13<br>30.23</td>
+</tr>
+<tr>
+<td style="padding:0.2cm; text-align:left; vertical-align:top; background-color:#eeeeee">sit_lab_fina</td>
+<td style="padding:0.2cm; text-align:left; vertical-align:top; background-color:#eeeeee"></td>
+<td style="padding:0.2cm; text-align:left; vertical-align:top; background-color:#eeeeee">Trabajando<br>Cesante<br>Inactivo</td>
+<td style="padding:0.2cm; text-align:left; vertical-align:top; background-color:#eeeeee">4453<br>2689<br>3604</td>
+<td style="padding:0.2cm; text-align:left; vertical-align:top; background-color:#eeeeee">41.44<br>25.02<br>33.54</td>
+</tr>
+
+</table>

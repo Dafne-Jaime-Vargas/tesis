@@ -1,0 +1,74 @@
+<table style="border-collapse:collapse; border:none;">
+<caption style="font-weight: bold; text-align:left;">Tabla 4.
+         Proporciones por clase de precariedad y edad</caption>
+ <tr>
+ <th style="border-top:double; text-align:center; font-style:italic; font-weight:normal; border-bottom:1px solid;" rowspan="2">variables$`M6_or$predclass`</th>
+ <th style="border-top:double; text-align:center; font-style:italic; font-weight:normal;" colspan="3">variables$edad_tramos</th>
+ <th style="border-top:double; text-align:center; font-style:italic; font-weight:normal; font-weight:bolder; font-style:italic; border-bottom:1px solid; " rowspan="2">Total</th>
+ </tr>
+ 
+<tr>
+ <td style="border-bottom:1px solid; text-align:center; padding:0.2cm;">Adulto mayor</td>
+ <td style="border-bottom:1px solid; text-align:center; padding:0.2cm;">Adulto</td>
+ <td style="border-bottom:1px solid; text-align:center; padding:0.2cm;">Joven</td>
+ </tr>
+ 
+<tr> 
+<td style="padding:0.2cm;  text-align:left; vertical-align:middle;">1</td>
+<td style="padding:0.2cm; text-align:center; "><span style="color:black;">295070</span><br><span style="color:#333399;">9.8&nbsp;&#37;</span><br><span style="color:#339933;">8.3&nbsp;&#37;</span></td>
+<td style="padding:0.2cm; text-align:center; "><span style="color:black;">2095824</span><br><span style="color:#333399;">69.5&nbsp;&#37;</span><br><span style="color:#339933;">21.1&nbsp;&#37;</span></td>
+<td style="padding:0.2cm; text-align:center; "><span style="color:black;">626835</span><br><span style="color:#333399;">20.8&nbsp;&#37;</span><br><span style="color:#339933;">11.5&nbsp;&#37;</span></td>
+<td style="padding:0.2cm; text-align:center;  "><span style="color:black;">3017729</span><br><span style="color:#333399;">100&nbsp;&#37;</span><br><span style="color:#339933;">16&nbsp;&#37;</span></td> 
+</tr>
+ 
+<tr> 
+<td style="padding:0.2cm;  text-align:left; vertical-align:middle;">2</td>
+<td style="padding:0.2cm; text-align:center; "><span style="color:black;">2545639</span><br><span style="color:#333399;">53.3&nbsp;&#37;</span><br><span style="color:#339933;">71.8&nbsp;&#37;</span></td>
+<td style="padding:0.2cm; text-align:center; "><span style="color:black;">1288508</span><br><span style="color:#333399;">27&nbsp;&#37;</span><br><span style="color:#339933;">13&nbsp;&#37;</span></td>
+<td style="padding:0.2cm; text-align:center; "><span style="color:black;">942794</span><br><span style="color:#333399;">19.7&nbsp;&#37;</span><br><span style="color:#339933;">17.3&nbsp;&#37;</span></td>
+<td style="padding:0.2cm; text-align:center;  "><span style="color:black;">4776941</span><br><span style="color:#333399;">100&nbsp;&#37;</span><br><span style="color:#339933;">25.2&nbsp;&#37;</span></td> 
+</tr>
+ 
+<tr> 
+<td style="padding:0.2cm;  text-align:left; vertical-align:middle;">3</td>
+<td style="padding:0.2cm; text-align:center; "><span style="color:black;">164734</span><br><span style="color:#333399;">4.8&nbsp;&#37;</span><br><span style="color:#339933;">4.6&nbsp;&#37;</span></td>
+<td style="padding:0.2cm; text-align:center; "><span style="color:black;">2266268</span><br><span style="color:#333399;">66.2&nbsp;&#37;</span><br><span style="color:#339933;">22.8&nbsp;&#37;</span></td>
+<td style="padding:0.2cm; text-align:center; "><span style="color:black;">992686</span><br><span style="color:#333399;">29&nbsp;&#37;</span><br><span style="color:#339933;">18.2&nbsp;&#37;</span></td>
+<td style="padding:0.2cm; text-align:center;  "><span style="color:black;">3423688</span><br><span style="color:#333399;">100&nbsp;&#37;</span><br><span style="color:#339933;">18.1&nbsp;&#37;</span></td> 
+</tr>
+ 
+<tr> 
+<td style="padding:0.2cm;  text-align:left; vertical-align:middle;">4</td>
+<td style="padding:0.2cm; text-align:center; "><span style="color:black;">63475</span><br><span style="color:#333399;">4.7&nbsp;&#37;</span><br><span style="color:#339933;">1.8&nbsp;&#37;</span></td>
+<td style="padding:0.2cm; text-align:center; "><span style="color:black;">1120397</span><br><span style="color:#333399;">83.7&nbsp;&#37;</span><br><span style="color:#339933;">11.3&nbsp;&#37;</span></td>
+<td style="padding:0.2cm; text-align:center; "><span style="color:black;">154047</span><br><span style="color:#333399;">11.5&nbsp;&#37;</span><br><span style="color:#339933;">2.8&nbsp;&#37;</span></td>
+<td style="padding:0.2cm; text-align:center;  "><span style="color:black;">1337919</span><br><span style="color:#333399;">100&nbsp;&#37;</span><br><span style="color:#339933;">7.1&nbsp;&#37;</span></td> 
+</tr>
+ 
+<tr> 
+<td style="padding:0.2cm;  text-align:left; vertical-align:middle;">5</td>
+<td style="padding:0.2cm; text-align:center; "><span style="color:black;">95721</span><br><span style="color:#333399;">11.4&nbsp;&#37;</span><br><span style="color:#339933;">2.7&nbsp;&#37;</span></td>
+<td style="padding:0.2cm; text-align:center; "><span style="color:black;">431513</span><br><span style="color:#333399;">51.6&nbsp;&#37;</span><br><span style="color:#339933;">4.3&nbsp;&#37;</span></td>
+<td style="padding:0.2cm; text-align:center; "><span style="color:black;">309663</span><br><span style="color:#333399;">37&nbsp;&#37;</span><br><span style="color:#339933;">5.7&nbsp;&#37;</span></td>
+<td style="padding:0.2cm; text-align:center;  "><span style="color:black;">836897</span><br><span style="color:#333399;">100&nbsp;&#37;</span><br><span style="color:#339933;">4.4&nbsp;&#37;</span></td> 
+</tr>
+ 
+<tr> 
+<td style="padding:0.2cm;  text-align:left; vertical-align:middle;">6</td>
+<td style="padding:0.2cm; text-align:center; "><span style="color:black;">382385</span><br><span style="color:#333399;">6.9&nbsp;&#37;</span><br><span style="color:#339933;">10.8&nbsp;&#37;</span></td>
+<td style="padding:0.2cm; text-align:center; "><span style="color:black;">2728237</span><br><span style="color:#333399;">49.4&nbsp;&#37;</span><br><span style="color:#339933;">27.5&nbsp;&#37;</span></td>
+<td style="padding:0.2cm; text-align:center; "><span style="color:black;">2415235</span><br><span style="color:#333399;">43.7&nbsp;&#37;</span><br><span style="color:#339933;">44.4&nbsp;&#37;</span></td>
+<td style="padding:0.2cm; text-align:center;  "><span style="color:black;">5525857</span><br><span style="color:#333399;">100&nbsp;&#37;</span><br><span style="color:#339933;">29.2&nbsp;&#37;</span></td> 
+</tr>
+ 
+<tr> 
+<td style="padding:0.2cm;  border-bottom:double; font-weight:bolder; font-style:italic; text-align:left; vertical-align:middle;">Total</td>
+<td style="padding:0.2cm; text-align:center;   border-bottom:double;"><span style="color:black;">3547024</span><br><span style="color:#333399;">18.7&nbsp;&#37;</span><br><span style="color:#339933;">100&nbsp;&#37;</span></td>
+<td style="padding:0.2cm; text-align:center;   border-bottom:double;"><span style="color:black;">9930747</span><br><span style="color:#333399;">52.5&nbsp;&#37;</span><br><span style="color:#339933;">100&nbsp;&#37;</span></td>
+<td style="padding:0.2cm; text-align:center;   border-bottom:double;"><span style="color:black;">5441260</span><br><span style="color:#333399;">28.8&nbsp;&#37;</span><br><span style="color:#339933;">100&nbsp;&#37;</span></td>
+<td style="padding:0.2cm; text-align:center;   border-bottom:double;"><span style="color:black;">18919031</span><br><span style="color:#333399;">100&nbsp;&#37;</span><br><span style="color:#339933;">100&nbsp;&#37;</span></td> 
+</tr>
+<td style="text-align:right; font-size:0.9em; font-style:italic; padding:0.2cm;" colspan="5">&chi;<sup>2</sup>=6029786.037 &middot; df=10 &middot; Cramer's V=0.399 &middot; p=0.000</td> 
+</tr>
+ 
+</table>

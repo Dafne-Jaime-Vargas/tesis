@@ -1,0 +1,106 @@
+<table style="border-collapse:collapse; border:none;">
+<caption style="font-weight: bold; text-align:left;">Tabla 4.
+         Proporciones por clase de precariedad y ocupación</caption>
+ <tr>
+ <th style="border-top:double; text-align:center; font-style:italic; font-weight:normal; border-bottom:1px solid;" rowspan="2">variables$`M6_or$predclass`</th>
+ <th style="border-top:double; text-align:center; font-style:italic; font-weight:normal;" colspan="11">Codificación<br>variable b5 con<br>CIUO-08.CL a 1<br>dígito</th>
+ <th style="border-top:double; text-align:center; font-style:italic; font-weight:normal; font-weight:bolder; font-style:italic; border-bottom:1px solid; " rowspan="2">Total</th>
+ </tr>
+ 
+<tr>
+ <td style="border-bottom:1px solid; text-align:center; padding:0.2cm;">Directores, Gerentes<br>Y Administradores</td>
+ <td style="border-bottom:1px solid; text-align:center; padding:0.2cm;">Profesionales,<br>Científicos E<br>Intelectuales</td>
+ <td style="border-bottom:1px solid; text-align:center; padding:0.2cm;">Técnicos Y<br>Profesionales De<br>Nivel Medio</td>
+ <td style="border-bottom:1px solid; text-align:center; padding:0.2cm;">Personal De Apoyo<br>Administrativo</td>
+ <td style="border-bottom:1px solid; text-align:center; padding:0.2cm;">Trabajadores De Los<br>Servicios Y<br>Vendedores De<br>Comercios Y Mercados</td>
+ <td style="border-bottom:1px solid; text-align:center; padding:0.2cm;">Agricultores Y<br>Trabajadores<br>Calificados<br>Agropecuarios,<br>Forestales Y<br>Pesqueros</td>
+ <td style="border-bottom:1px solid; text-align:center; padding:0.2cm;">Artesanos Y<br>Operarios De Oficios</td>
+ <td style="border-bottom:1px solid; text-align:center; padding:0.2cm;">Operadores De<br>Instalaciones,<br>Máquinas Y<br>Ensambladores</td>
+ <td style="border-bottom:1px solid; text-align:center; padding:0.2cm;">Ocupaciones<br>Elementales</td>
+ <td style="border-bottom:1px solid; text-align:center; padding:0.2cm;">Información<br>insuficiente para<br>clasificar</td>
+ <td style="border-bottom:1px solid; text-align:center; padding:0.2cm;">Ocupaciones De Las<br>Fuerzas Armadas</td>
+ </tr>
+ 
+<tr> 
+<td style="padding:0.2cm;  text-align:left; vertical-align:middle;">1</td>
+<td style="padding:0.2cm; text-align:center; "><span style="color:#333399;">0.4&nbsp;&#37;</span><br><span style="color:#339933;">10.9&nbsp;&#37;</span></td>
+<td style="padding:0.2cm; text-align:center; "><span style="color:#333399;">11.8&nbsp;&#37;</span><br><span style="color:#339933;">24&nbsp;&#37;</span></td>
+<td style="padding:0.2cm; text-align:center; "><span style="color:#333399;">13.2&nbsp;&#37;</span><br><span style="color:#339933;">36.2&nbsp;&#37;</span></td>
+<td style="padding:0.2cm; text-align:center; "><span style="color:#333399;">13&nbsp;&#37;</span><br><span style="color:#339933;">61.4&nbsp;&#37;</span></td>
+<td style="padding:0.2cm; text-align:center; "><span style="color:#333399;">18&nbsp;&#37;</span><br><span style="color:#339933;">39&nbsp;&#37;</span></td>
+<td style="padding:0.2cm; text-align:center; "><span style="color:#333399;">0.9&nbsp;&#37;</span><br><span style="color:#339933;">54&nbsp;&#37;</span></td>
+<td style="padding:0.2cm; text-align:center; "><span style="color:#333399;">10.7&nbsp;&#37;</span><br><span style="color:#339933;">25.2&nbsp;&#37;</span></td>
+<td style="padding:0.2cm; text-align:center; "><span style="color:#333399;">12.3&nbsp;&#37;</span><br><span style="color:#339933;">46.1&nbsp;&#37;</span></td>
+<td style="padding:0.2cm; text-align:center; "><span style="color:#333399;">17.4&nbsp;&#37;</span><br><span style="color:#339933;">33.2&nbsp;&#37;</span></td>
+<td style="padding:0.2cm; text-align:center; "><span style="color:#333399;">2.2&nbsp;&#37;</span><br><span style="color:#339933;">39.9&nbsp;&#37;</span></td>
+<td style="padding:0.2cm; text-align:center; "><span style="color:#333399;">0.1&nbsp;&#37;</span><br><span style="color:#339933;">100&nbsp;&#37;</span></td>
+<td style="padding:0.2cm; text-align:center;  "><span style="color:#333399;">100&nbsp;&#37;</span><br><span style="color:#339933;">35&nbsp;&#37;</span></td> 
+</tr>
+ 
+<tr> 
+<td style="padding:0.2cm;  text-align:left; vertical-align:middle;">3</td>
+<td style="padding:0.2cm; text-align:center; "><span style="color:#333399;">0.7&nbsp;&#37;</span><br><span style="color:#339933;">21.5&nbsp;&#37;</span></td>
+<td style="padding:0.2cm; text-align:center; "><span style="color:#333399;">8.1&nbsp;&#37;</span><br><span style="color:#339933;">18.8&nbsp;&#37;</span></td>
+<td style="padding:0.2cm; text-align:center; "><span style="color:#333399;">10.6&nbsp;&#37;</span><br><span style="color:#339933;">32.9&nbsp;&#37;</span></td>
+<td style="padding:0.2cm; text-align:center; "><span style="color:#333399;">3.9&nbsp;&#37;</span><br><span style="color:#339933;">20.7&nbsp;&#37;</span></td>
+<td style="padding:0.2cm; text-align:center; "><span style="color:#333399;">18.7&nbsp;&#37;</span><br><span style="color:#339933;">46&nbsp;&#37;</span></td>
+<td style="padding:0.2cm; text-align:center; "><span style="color:#333399;">0.3&nbsp;&#37;</span><br><span style="color:#339933;">22.3&nbsp;&#37;</span></td>
+<td style="padding:0.2cm; text-align:center; "><span style="color:#333399;">22.4&nbsp;&#37;</span><br><span style="color:#339933;">59.6&nbsp;&#37;</span></td>
+<td style="padding:0.2cm; text-align:center; "><span style="color:#333399;">9.7&nbsp;&#37;</span><br><span style="color:#339933;">41.2&nbsp;&#37;</span></td>
+<td style="padding:0.2cm; text-align:center; "><span style="color:#333399;">24.2&nbsp;&#37;</span><br><span style="color:#339933;">52.3&nbsp;&#37;</span></td>
+<td style="padding:0.2cm; text-align:center; "><span style="color:#333399;">1.4&nbsp;&#37;</span><br><span style="color:#339933;">28.8&nbsp;&#37;</span></td>
+<td style="padding:0.2cm; text-align:center; "><span style="color:#333399;">0&nbsp;&#37;</span><br><span style="color:#339933;">0&nbsp;&#37;</span></td>
+<td style="padding:0.2cm; text-align:center;  "><span style="color:#333399;">100&nbsp;&#37;</span><br><span style="color:#339933;">39.7&nbsp;&#37;</span></td> 
+</tr>
+ 
+<tr> 
+<td style="padding:0.2cm;  text-align:left; vertical-align:middle;">4</td>
+<td style="padding:0.2cm; text-align:center; "><span style="color:#333399;">5.1&nbsp;&#37;</span><br><span style="color:#339933;">63.7&nbsp;&#37;</span></td>
+<td style="padding:0.2cm; text-align:center; "><span style="color:#333399;">50.6&nbsp;&#37;</span><br><span style="color:#339933;">45.8&nbsp;&#37;</span></td>
+<td style="padding:0.2cm; text-align:center; "><span style="color:#333399;">19&nbsp;&#37;</span><br><span style="color:#339933;">23&nbsp;&#37;</span></td>
+<td style="padding:0.2cm; text-align:center; "><span style="color:#333399;">7.6&nbsp;&#37;</span><br><span style="color:#339933;">15.9&nbsp;&#37;</span></td>
+<td style="padding:0.2cm; text-align:center; "><span style="color:#333399;">2.8&nbsp;&#37;</span><br><span style="color:#339933;">2.7&nbsp;&#37;</span></td>
+<td style="padding:0.2cm; text-align:center; "><span style="color:#333399;">0.6&nbsp;&#37;</span><br><span style="color:#339933;">15.2&nbsp;&#37;</span></td>
+<td style="padding:0.2cm; text-align:center; "><span style="color:#333399;">6.5&nbsp;&#37;</span><br><span style="color:#339933;">6.8&nbsp;&#37;</span></td>
+<td style="padding:0.2cm; text-align:center; "><span style="color:#333399;">5&nbsp;&#37;</span><br><span style="color:#339933;">8.4&nbsp;&#37;</span></td>
+<td style="padding:0.2cm; text-align:center; "><span style="color:#333399;">0.8&nbsp;&#37;</span><br><span style="color:#339933;">0.7&nbsp;&#37;</span></td>
+<td style="padding:0.2cm; text-align:center; "><span style="color:#333399;">2&nbsp;&#37;</span><br><span style="color:#339933;">16.3&nbsp;&#37;</span></td>
+<td style="padding:0.2cm; text-align:center; "><span style="color:#333399;">0&nbsp;&#37;</span><br><span style="color:#339933;">0&nbsp;&#37;</span></td>
+<td style="padding:0.2cm; text-align:center;  "><span style="color:#333399;">100&nbsp;&#37;</span><br><span style="color:#339933;">15.5&nbsp;&#37;</span></td> 
+</tr>
+ 
+<tr> 
+<td style="padding:0.2cm;  text-align:left; vertical-align:middle;">5</td>
+<td style="padding:0.2cm; text-align:center; "><span style="color:#333399;">0.5&nbsp;&#37;</span><br><span style="color:#339933;">4&nbsp;&#37;</span></td>
+<td style="padding:0.2cm; text-align:center; "><span style="color:#333399;">20.2&nbsp;&#37;</span><br><span style="color:#339933;">11.4&nbsp;&#37;</span></td>
+<td style="padding:0.2cm; text-align:center; "><span style="color:#333399;">10.4&nbsp;&#37;</span><br><span style="color:#339933;">7.9&nbsp;&#37;</span></td>
+<td style="padding:0.2cm; text-align:center; "><span style="color:#333399;">1.6&nbsp;&#37;</span><br><span style="color:#339933;">2&nbsp;&#37;</span></td>
+<td style="padding:0.2cm; text-align:center; "><span style="color:#333399;">20.6&nbsp;&#37;</span><br><span style="color:#339933;">12.4&nbsp;&#37;</span></td>
+<td style="padding:0.2cm; text-align:center; "><span style="color:#333399;">0.5&nbsp;&#37;</span><br><span style="color:#339933;">8.5&nbsp;&#37;</span></td>
+<td style="padding:0.2cm; text-align:center; "><span style="color:#333399;">13&nbsp;&#37;</span><br><span style="color:#339933;">8.5&nbsp;&#37;</span></td>
+<td style="padding:0.2cm; text-align:center; "><span style="color:#333399;">4.2&nbsp;&#37;</span><br><span style="color:#339933;">4.4&nbsp;&#37;</span></td>
+<td style="padding:0.2cm; text-align:center; "><span style="color:#333399;">26.1&nbsp;&#37;</span><br><span style="color:#339933;">13.8&nbsp;&#37;</span></td>
+<td style="padding:0.2cm; text-align:center; "><span style="color:#333399;">3&nbsp;&#37;</span><br><span style="color:#339933;">14.9&nbsp;&#37;</span></td>
+<td style="padding:0.2cm; text-align:center; "><span style="color:#333399;">0&nbsp;&#37;</span><br><span style="color:#339933;">0&nbsp;&#37;</span></td>
+<td style="padding:0.2cm; text-align:center;  "><span style="color:#333399;">100&nbsp;&#37;</span><br><span style="color:#339933;">9.7&nbsp;&#37;</span></td> 
+</tr>
+ 
+<tr> 
+<td style="padding:0.2cm;  border-bottom:double; font-weight:bolder; font-style:italic; text-align:left; vertical-align:middle;">Total</td>
+<td style="padding:0.2cm; text-align:center;   border-bottom:double;"><span style="color:#333399;">1.2&nbsp;&#37;</span><br><span style="color:#339933;">100&nbsp;&#37;</span></td>
+<td style="padding:0.2cm; text-align:center;   border-bottom:double;"><span style="color:#333399;">17.2&nbsp;&#37;</span><br><span style="color:#339933;">100&nbsp;&#37;</span></td>
+<td style="padding:0.2cm; text-align:center;   border-bottom:double;"><span style="color:#333399;">12.8&nbsp;&#37;</span><br><span style="color:#339933;">100&nbsp;&#37;</span></td>
+<td style="padding:0.2cm; text-align:center;   border-bottom:double;"><span style="color:#333399;">7.4&nbsp;&#37;</span><br><span style="color:#339933;">100&nbsp;&#37;</span></td>
+<td style="padding:0.2cm; text-align:center;   border-bottom:double;"><span style="color:#333399;">16.1&nbsp;&#37;</span><br><span style="color:#339933;">100&nbsp;&#37;</span></td>
+<td style="padding:0.2cm; text-align:center;   border-bottom:double;"><span style="color:#333399;">0.6&nbsp;&#37;</span><br><span style="color:#339933;">100&nbsp;&#37;</span></td>
+<td style="padding:0.2cm; text-align:center;   border-bottom:double;"><span style="color:#333399;">14.9&nbsp;&#37;</span><br><span style="color:#339933;">100&nbsp;&#37;</span></td>
+<td style="padding:0.2cm; text-align:center;   border-bottom:double;"><span style="color:#333399;">9.3&nbsp;&#37;</span><br><span style="color:#339933;">100&nbsp;&#37;</span></td>
+<td style="padding:0.2cm; text-align:center;   border-bottom:double;"><span style="color:#333399;">18.4&nbsp;&#37;</span><br><span style="color:#339933;">100&nbsp;&#37;</span></td>
+<td style="padding:0.2cm; text-align:center;   border-bottom:double;"><span style="color:#333399;">2&nbsp;&#37;</span><br><span style="color:#339933;">100&nbsp;&#37;</span></td>
+<td style="padding:0.2cm; text-align:center;   border-bottom:double;"><span style="color:#333399;">0&nbsp;&#37;</span><br><span style="color:#339933;">100&nbsp;&#37;</span></td>
+<td style="padding:0.2cm; text-align:center;   border-bottom:double;"><span style="color:#333399;">100&nbsp;&#37;</span><br><span style="color:#339933;">100&nbsp;&#37;</span></td> 
+</tr>
+<td style="text-align:right; font-size:0.9em; font-style:italic; padding:0.2cm;" colspan="13">&chi;<sup>2</sup>=2386742.280 &middot; df=30 &middot; Cramer's V=0.304 &middot; p=0.000</td> 
+</tr>
+ 
+</table>
