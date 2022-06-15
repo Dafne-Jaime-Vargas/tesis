@@ -41,7 +41,8 @@ sjt.xtab(objeto_encuesta$variables$`M6_or$predclass`,objeto_encuesta$variables$s
          show.obs = F,
          show.row.prc = T,
          show.col.prc = T,
-         weight.by = objeto_encuesta$variables$factor_XS, file = "output/tablas/descriptivos/tabla1.2.doc") 
+         show.cell.prc = T,
+         weight.by = objeto_encuesta$variables$factor_XS) 
 
 
 sjt.xtab(objeto_encuesta$variables$`M6_or$predclass`,objeto_encuesta$variables$edad_tramos, 
@@ -91,7 +92,7 @@ sjt.xtab( objeto_encuesta$variables$`M6_or$predclass`, objeto_encuesta$variables
           show.obs = F,
           show.row.prc = T,
           show.col.prc = T,
-          weight.by = objeto_encuesta$variables$factor_XS, file = "output/tabla6.2.doc")
+          weight.by = objeto_encuesta$variables$factor_XS)
 
 
 # con objeto encuesta  ----------------------------------------------------
