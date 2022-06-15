@@ -7,7 +7,11 @@ pacman::p_load(tidyverse, haven, srvyr, sjPlot, DescTools)
 load("output/data/03-modelos_analisis.RData")
 load("output/data/02-datos_proc.RData")
 
+
 # opcion union
+
+datos_sna <- list(datos_unidos, datos_exp) %>%  # ver si incorporar cise acá
+  Reduce(function(x,y) merge(x,y, by = c("folio_n20"), all.x = T), . )
 
 # union de datos y proporciones ----------------------------------------------------------
 
@@ -73,6 +77,22 @@ sjt.xtab( objeto_encuesta$variables$`M6_or$predclass`, objeto_encuesta$variables
           show.col.prc = T,
           weight.by = objeto_encuesta$variables$factor_XS, file = "output/tabla5.2.doc")
 
+sjt.xtab( objeto_encuesta$variables$`M6_or$predclass`, objeto_encuesta$variables$CIIU_1dig_cat,
+          title = "Tabla 4.
+         Proporciones por clase de precariedad y actividad",
+          show.obs = F,
+          show.row.prc = T,
+          show.col.prc = T,
+          weight.by = objeto_encuesta$variables$factor_XS, file = "output/tabla5.2.doc")
+
+sjt.xtab( objeto_encuesta$variables$`M6_or$predclass`, objeto_encuesta$variables$sit_lab_fin,
+          title = "Tabla 4.
+         Proporciones por clase de precariedad y actividad",
+          show.obs = F,
+          show.row.prc = T,
+          show.col.prc = T,
+          weight.by = objeto_encuesta$variables$factor_XS, file = "output/tabla6.2.doc")
+
 
 # con objeto encuesta  ----------------------------------------------------
 
@@ -113,10 +133,37 @@ tabla_educacion <- objeto_encuesta %>%
               values_from = c("prop_upp", "prop", "prop_low")) %>% 
   select(1,5,10,15,2,7,12,3,8,13,4,9,14,6,11,16)
 
+tabla_sit_trab <- objeto_encuesta %>% 
+  group_by(sit_lab_fin,objeto_encuesta$variables$`M6_or$predclass`) %>% 
+  summarise(prop = survey_prop(vartype = "ci", level = 0.95, na.rm = T),
+            total = survey_total(vartype = "ci", level = 0.95, na.rm = T)) %>% 
+  mutate(prop_low = round(prop_low*100, digits = 1),
+         prop = round(prop*100, digits = 1), 
+         prop_upp = round(prop_upp*100, digits = 1)) %>% 
+  select(1,2,4,3,5) %>% 
+  pivot_wider(., names_from = "sit_lab_fin",
+              values_from = c("prop_upp", "prop", "prop_low")) %>% 
+  select(1,2,5,8)
+
+tabla_sit_desoc <- objeto_encuesta %>% 
+  group_by(sit_lab_fin,objeto_encuesta$variables$`M6_or$predclass`) %>% 
+  summarise(prop = survey_prop(vartype = "ci", level = 0.95, na.rm = T),
+            total = survey_total(vartype = "ci", level = 0.95, na.rm = T)) %>% 
+  mutate(prop_low = round(prop_low*100, digits = 1),
+         prop = round(prop*100, digits = 1), 
+         prop_upp = round(prop_upp*100, digits = 1)) %>% 
+  select(1,2,4,3,5) %>% 
+  pivot_wider(., names_from = "sit_lab_fin",
+              values_from = c("prop_upp", "prop", "prop_low")) %>% 
+  select(1,3,6,9,4,7,10)
+
 
 tablas_descriptivas <- list(tabla_edad, tabla_educacion, tabla_sexo)
 
+tablas_complementarias <- list(tabla_sit_desoc, tabla_sit_trab)
+
 writexl::write_xlsx(tablas_descriptivas, "output/tablas/descriptivos/tablas_descriptivas.xlsx")
+writexl::write_xlsx(tablas_complementarias, "output/tablas/descriptivos/tablas_complementarias.xlsx")
 
 # guardado ----------------------------------------------------------------
 
