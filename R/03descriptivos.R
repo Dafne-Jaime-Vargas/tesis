@@ -7,12 +7,6 @@ pacman::p_load(tidyverse, haven, srvyr, sjPlot, DescTools)
 load("output/data/03-modelos_analisis.RData")
 load("output/data/02-datos_proc.RData")
 
-
-# opcion union
-
-datos_sna <- list(datos_unidos, datos_exp) %>%  # ver si incorporar cise acá
-  Reduce(function(x,y) merge(x,y, by = c("folio_n20"), all.x = T), . )
-
 # union de datos y proporciones ----------------------------------------------------------
 
 descriptivos <-cbind(datos_sna,  M5_or$predclass, M6_or$predclass, M7_or$predclass, M8_or$predclass, M9_or$predclass, M4_or$predclass, M3_or$predclass, M10_or$predclass)
