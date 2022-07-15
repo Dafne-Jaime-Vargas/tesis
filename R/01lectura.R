@@ -102,7 +102,7 @@ unido <- list(asc,
 #   Reduce(function(x,y) merge(x,y, by = c("folio_n20"), all = T, no.dups = F), .)
 
 
-#merge daproblemas
+#merge 
 
 datos_dinam  <- list(datos_2020_b2, 
                      unido %>% 
