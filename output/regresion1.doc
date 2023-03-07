@@ -1,0 +1,177 @@
+<table style="border-collapse:collapse; border:none;">
+<tr>
+<th style="border-top: double; text-align:center; font-style:normal; font-weight:bold; padding:0.2cm;  text-align:left; ">&nbsp;</th>
+<th colspan="3" style="border-top: double; text-align:center; font-style:normal; font-weight:bold; padding:0.2cm; ">Modelo</th>
+</tr>
+<tr>
+<td style=" text-align:center; border-bottom:1px solid; font-style:italic; font-weight:normal;  text-align:left; ">Predictores</td>
+<td style=" text-align:center; border-bottom:1px solid; font-style:italic; font-weight:normal;  ">Odds Ratios</td>
+<td style=" text-align:center; border-bottom:1px solid; font-style:italic; font-weight:normal;  ">IC 95%</td>
+<td style=" text-align:center; border-bottom:1px solid; font-style:italic; font-weight:normal;  ">Response</td>
+</tr>
+<tr>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:left; ">(Intercepto)</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center;  ">0.05 <sup>***</sup></td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center;  ">0.05&nbsp;&ndash;&nbsp;0.05</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center;  ">clase 2 PA</td>
+</tr>
+<tr>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:left; ">sexo [Mujer]</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center;  ">5.47 <sup>***</sup></td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center;  ">5.45&nbsp;&ndash;&nbsp;5.48</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center;  ">clase 2 PA</td>
+</tr>
+<tr>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:left; ">edad tramos [Adulto<br>mayor]</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center;  ">18.15 <sup>***</sup></td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center;  ">18.08&nbsp;&ndash;&nbsp;18.22</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center;  ">clase 2 PA</td>
+</tr>
+<tr>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:left; ">edad tramos [Joven]</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center;  ">2.96 <sup>***</sup></td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center;  ">2.95&nbsp;&ndash;&nbsp;2.97</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center;  ">clase 2 PA</td>
+</tr>
+<tr>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:left; ">educacion [Básica]</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center;  ">3.56 <sup>***</sup></td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center;  ">3.52&nbsp;&ndash;&nbsp;3.61</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center;  ">clase 2 PA</td>
+</tr>
+<tr>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:left; ">educacion [Media]</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center;  ">1.43 <sup>***</sup></td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center;  ">1.41&nbsp;&ndash;&nbsp;1.45</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center;  ">clase 2 PA</td>
+</tr>
+<tr>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:left; ">educacion [Superior]</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center;  ">1.16 <sup>***</sup></td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center;  ">1.15&nbsp;&ndash;&nbsp;1.18</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center;  ">clase 2 PA</td>
+</tr>
+<tr>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:left; ">educacion [Sin estudios]</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center;  ">13.57 <sup>***</sup></td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center;  ">13.17&nbsp;&ndash;&nbsp;13.99</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center;  ">clase 2 PA</td>
+</tr>
+<tr>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:left; ">(Intercepto)</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center;  ">0.26 <sup>***</sup></td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center;  ">0.25&nbsp;&ndash;&nbsp;0.26</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center;  ">clase 5 PMA</td>
+</tr>
+<tr>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:left; ">sexo [Mujer]</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center;  ">1.47 <sup>***</sup></td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center;  ">1.47&nbsp;&ndash;&nbsp;1.48</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center;  ">clase 5 PMA</td>
+</tr>
+<tr>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:left; ">edad tramos [Adulto<br>mayor]</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center;  ">2.09 <sup>***</sup></td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center;  ">2.07&nbsp;&ndash;&nbsp;2.11</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center;  ">clase 5 PMA</td>
+</tr>
+<tr>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:left; ">edad tramos [Joven]</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center;  ">2.47 <sup>***</sup></td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center;  ">2.46&nbsp;&ndash;&nbsp;2.49</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center;  ">clase 5 PMA</td>
+</tr>
+<tr>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:left; ">educacion [Básica]</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center;  ">0.35 <sup>***</sup></td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center;  ">0.34&nbsp;&ndash;&nbsp;0.35</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center;  ">clase 5 PMA</td>
+</tr>
+<tr>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:left; ">educacion [Media]</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center;  ">0.21 <sup>***</sup></td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center;  ">0.21&nbsp;&ndash;&nbsp;0.21</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center;  ">clase 5 PMA</td>
+</tr>
+<tr>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:left; ">educacion [Superior]</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center;  ">0.23 <sup>***</sup></td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center;  ">0.23&nbsp;&ndash;&nbsp;0.23</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center;  ">clase 5 PMA</td>
+</tr>
+<tr>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:left; ">educacion [Sin estudios]</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center;  ">7.79 <sup>***</sup></td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center;  ">7.56&nbsp;&ndash;&nbsp;8.03</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center;  ">clase 5 PMA</td>
+</tr>
+<tr>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:left; ">(Intercepto)</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center;  ">0.66 <sup>***</sup></td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center;  ">0.66&nbsp;&ndash;&nbsp;0.67</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center;  ">clase 6 PM</td>
+</tr>
+<tr>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:left; ">sexo [Mujer]</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center;  ">1.99 <sup>***</sup></td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center;  ">1.98&nbsp;&ndash;&nbsp;1.99</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center;  ">clase 6 PM</td>
+</tr>
+<tr>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:left; ">edad tramos [Adulto<br>mayor]</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center;  ">1.44 <sup>***</sup></td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center;  ">1.43&nbsp;&ndash;&nbsp;1.44</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center;  ">clase 6 PM</td>
+</tr>
+<tr>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:left; ">edad tramos [Joven]</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center;  ">3.02 <sup>***</sup></td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center;  ">3.02&nbsp;&ndash;&nbsp;3.03</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center;  ">clase 6 PM</td>
+</tr>
+<tr>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:left; ">educacion [Básica]</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center;  ">0.72 <sup>***</sup></td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center;  ">0.71&nbsp;&ndash;&nbsp;0.72</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center;  ">clase 6 PM</td>
+</tr>
+<tr>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:left; ">educacion [Media]</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center;  ">0.52 <sup>***</sup></td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center;  ">0.51&nbsp;&ndash;&nbsp;0.52</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center;  ">clase 6 PM</td>
+</tr>
+<tr>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:left; ">educacion [Superior]</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center;  ">0.48 <sup>***</sup></td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center;  ">0.48&nbsp;&ndash;&nbsp;0.49</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center;  ">clase 6 PM</td>
+</tr>
+<tr>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:left; ">educacion [Sin estudios]</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center;  ">3.44 <sup>***</sup></td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center;  ">3.35&nbsp;&ndash;&nbsp;3.55</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center;  ">clase 6 PM</td>
+</tr>
+<tr>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:left; padding-top:0.1cm; padding-bottom:0.1cm; border-top:1px solid;">Observations</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; padding-top:0.1cm; padding-bottom:0.1cm; text-align:left; border-top:1px solid;" colspan="3">10746</td>
+</tr>
+<tr>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:left; padding-top:0.1cm; padding-bottom:0.1cm;">R<sup>2</sup> / R<sup>2</sup> adjusted</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; padding-top:0.1cm; padding-bottom:0.1cm; text-align:left;" colspan="3">0.156 / 0.156</td>
+</tr>
+<tr>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:left; padding-top:0.1cm; padding-bottom:0.1cm;">AIC</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; padding-top:0.1cm; padding-bottom:0.1cm; text-align:left;" colspan="3">38630757.283</td>
+</tr>
+<tr>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:left; padding-top:0.1cm; padding-bottom:0.1cm;">log-Likelihood</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; padding-top:0.1cm; padding-bottom:0.1cm; text-align:left;" colspan="3">-19315354.641</td>
+</tr>
+<tr>
+<td colspan="4" style="font-style:italic; border-top:double black; text-align:right;">* p&lt;0.05&nbsp;&nbsp;&nbsp;** p&lt;0.01&nbsp;&nbsp;&nbsp;*** p&lt;0.001</td>
+</tr>
+
+</table>
+
